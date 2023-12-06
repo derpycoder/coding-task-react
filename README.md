@@ -1,3 +1,8 @@
+# Screenshot
+
+![image](https://github.com/derpycoder/coding-task-react/assets/25662120/dfa5007e-6ece-4976-bd02-3f75d6d45595)
+
+
 # React.js Counter Task
 
 Welcome to the React.js Counter Task! This task involves implementing a counter functionality in a React.js project. You will need to clone the project, update specific files, and push your code back to your own repository.
