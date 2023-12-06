@@ -10,6 +10,15 @@ Your task is to implement the following functionality in the existing React.js p
 2. **Custom Amount Addition**: Add an input box where users can enter any amount. Implement functionality so that when the "Add Amount" button is clicked, the count gets increased by the entered amount.
 3. **Conditional Increase**: Implement a feature to only increase the count by the amount entered in the input box when the current count value is odd.
 
+## Prerequisite
+
+1. Install ASDF: (A universal version manager)
+   - `brew install asdf`
+2. Add an ASDF plugin:
+   - `asdf plugin add nodejs https://github.com/asdf-vm/asdf-nodejs.git`
+3. Install all dependencies: (Will install all dependencies mentioned in tool-versions file)
+   - `asdf install`
+
 ## Getting Started
 
 1. **Clone the Repository**: First, you need to clone the repository to your local machine.
