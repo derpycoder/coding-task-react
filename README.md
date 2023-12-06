@@ -2,6 +2,10 @@
 - `master`: With solutions solving the problems exactly.
 - `slight-enhancement`: With a slightly modified solution.
 
+### Screenshot:
+![image](https://github.com/derpycoder/coding-task-react/assets/25662120/7bcc97b2-bcc5-494a-a347-7e25be7ceed7)
+
+
 # React.js Counter Task
 
 Welcome to the React.js Counter Task! This task involves implementing a counter functionality in a React.js project. You will need to clone the project, update specific files, and push your code back to your own repository.
