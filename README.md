@@ -3,7 +3,7 @@
 - `slight-enhancement`: With a slightly modified solution.
 
 ### Screenshot:
-![image](https://github.com/derpycoder/coding-task-react/assets/25662120/7bcc97b2-bcc5-494a-a347-7e25be7ceed7)
+[![image](https://github.com/derpycoder/coding-task-react/assets/25662120/7bcc97b2-bcc5-494a-a347-7e25be7ceed7)](https://github.com/derpycoder/coding-task-react/tree/slight-enhancement)
 
 
 # React.js Counter Task
